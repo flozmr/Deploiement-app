@@ -6,6 +6,7 @@ import California from "../assets/images/food/California.svg";
 import BeefCheese from "../assets/images/food/Brochette boeuf fro.svg";
 import salade from "../assets/images/salade.png"
 import biere from "../assets/images/biere.png"
+import dessert from "../assets/images/biere.png"
 
 export interface FoodItem {
   name: string;
