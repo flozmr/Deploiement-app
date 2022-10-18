@@ -4,8 +4,8 @@ import Maki from "../assets/images/food/Maki.svg";
 import Sushi from "../assets/images/food/Sushi.svg";
 import California from "../assets/images/food/California.svg";
 import BeefCheese from "../assets/images/food/Brochette boeuf fro.svg";
-import salade from "../assets/images/food/salade.svg"
-import { SortByAlphaRounded } from "@material-ui/icons";
+import salade from "../assets/images/salade.png"
+
 
 export interface FoodItem {
   name: string;
